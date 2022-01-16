@@ -51,3 +51,12 @@ Settings | Version Control | Git | Configure GPG Key
 ![Configure GPG Key](assets/images/2022-01-16/settings-git-configure-gpg-key.png)
 
 ![Commits are signed](assets/images/2022-01-16/commits-are-signed.png)
+
+### Export the keypair to a file
+
+Use the same email address that you used for generating the key pair:
+
+```shell
+gpg --export -a "email@address.com" > public.key
+```
+
