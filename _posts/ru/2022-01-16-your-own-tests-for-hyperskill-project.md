@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Как добавить свои юнит тесты в учебный проект для JetBrains Academy
+layout: default
+title: Пишем юнит тесты для проектов Hyperskill
 author: Jegors Cemisovs
-summary: Summary of the article
+summary: Как добавить свои юнит тесты в учебный проект для JetBrains Academy
 ---
 
 # Пишем юнит тесты для проектов Hyperskill
