@@ -48,9 +48,9 @@ gpg --list-keys
 
 Settings | Version Control | Git | Configure GPG Key
 
-![Configure GPG Key](assets/images/2022-01-16/settings-git-configure-gpg-key.png)
+![Configure GPG Key](../assets/images/2022-01-16/settings-git-configure-gpg-key.png)
 
-![Commits are signed](assets/images/2022-01-16/commits-are-signed.png)
+![Commits are signed](../assets/images/2022-01-16/commits-are-signed.png)
 
 ### Export the keypair to a file
 
